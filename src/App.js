@@ -24,11 +24,11 @@ function Icon({ name }) {
 }
 
 const PROJECTS = [
-  { name: 'Rupal Coder', kind: 'Web · Vue', tags: ['Vue 3', 'TypeScript', 'Vite'], live: 'https://rupal-coder.netlify.app/' },
-  { name: 'Spotify ReDesign', kind: 'Frontend · Vue · Backend · NestJS', tags: ['Vue', 'Figma', 'UI'], live: 'https://spotify-redisign.netlify.app/', repo: 'https://github.com/4awel/Spotify-ReDisign' },
-  { name: 'XStream Service', kind: 'Frontend · React', tags: ['TypeScript', 'Frontend'], repo: 'https://github.com/4awel/XStream-service' },
-  { name: 'XStream Backend', kind: 'Backend · NestJS · MediaMTX', tags: ['TypeScript', 'Node.js', 'API'], repo: 'https://github.com/4awel/XStream-service-backend' },
-  { name: 'Profile Test NestJS', kind: 'Backend · NestJS', tags: ['NestJS', 'TypeScript'], repo: 'https://github.com/4awel/profile-test-nestjs' },
+  { name: 'Rupal Coder', kind: 'Web · Vue', tags: ['Vue 3', 'TypeScript', 'Vite'], live: 'https://rupal-coder.netlify.app/', repo: 'https://github.com/4awel/Rupal-coder' },
+  { name: 'Spotify ReDesign', kind: 'Frontend · Vue · Backend · NestJS', tags: ['Vue', 'Figma', 'UI', 'NestJS', 'MongoDB'], live: 'https://spotify-redisign.netlify.app/', repo: 'https://github.com/4awel/Spotify-ReDisign' },
+  { name: 'XStream Service', kind: 'Frontend · React', tags: ['TypeScript', 'Frontend', 'React'], repo: 'https://github.com/4awel/XStream-service', live: 'https://xstream-app.netlify.app/' },
+  { name: 'XStream Backend', kind: 'Backend · NestJS · MediaMTX', tags: ['TypeScript', 'NestJS', 'REST API', 'PostgreSQL', 'MediaMTX'], repo: 'https://github.com/4awel/XStream-service-backend' },
+  { name: 'Profile Test NestJS', kind: 'Backend · NestJS', tags: ['NestJS', 'TypeScript'], repo: 'https://github.com/4awel/profile-test-nestjs', live: 'https://digital-card-api-76yi.onrender.com/graphql' },
 ];
 
 const STAT_VALUES = [
