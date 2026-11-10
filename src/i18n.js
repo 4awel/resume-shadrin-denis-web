@@ -6,7 +6,7 @@ export const I18N = {
       tag: 'Открыт к предложениям',
       first: 'Денис', last: 'Шадрин',
       role: 'Fullstack-разработчик · SaaS · LLM · Highload',
-      lead: '3+ года веду фичи от идеи до продакшена: архитектура, бэкенд, фронтенд, тесты, документация и релиз.',
+      lead: '2+ года веду фичи от идеи до продакшена: архитектура, бэкенд, фронтенд, тесты, документация и релиз.',
       contact: 'Связаться', exp: 'Смотреть опыт',
     },
     about: {
@@ -14,7 +14,7 @@ export const I18N = {
       caption: 'Москва · Fullstack',
       alt: 'Денис Шадрин',
       p: [
-        'Fullstack-разработчик с опытом более 3,5 лет в коммерческой разработке SaaS-продуктов для управления задачами. Прошёл путь от разработчика до ведущего разработчика и ментора команды из 5 человек.',
+        'Fullstack-разработчик с опытом более 2 лет в коммерческой разработке SaaS-продуктов для управления задачами. Прошёл путь от разработчика до ведущего разработчика и ментора команды из 5 человек.',
         'Умею вести фичу от идеи до продакшена в одиночку: продумать архитектуру, сделать бэкенд и фронтенд, покрыть тестами, задокументировать и выкатить.',
         'Предлагаю улучшения не только в коде, но и в процессах команды. Стремлюсь развиваться в сторону архитектуры высоконагруженных систем и ИИ-решений.',
       ],
@@ -78,7 +78,7 @@ export const I18N = {
       tag: 'Open to offers',
       first: 'Denis', last: 'Shadrin',
       role: 'Fullstack Developer · SaaS · LLM · Highload',
-      lead: '3+ years taking features from idea to production: architecture, backend, frontend, tests, documentation and release.',
+      lead: '2+ years taking features from idea to production: architecture, backend, frontend, tests, documentation and release.',
       contact: 'Get in touch', exp: 'View experience',
     },
     about: {
@@ -86,7 +86,7 @@ export const I18N = {
       caption: 'Moscow · Fullstack',
       alt: 'Denis Shadrin',
       p: [
-        'Fullstack developer with 3.5+ years of commercial experience building SaaS task-management products. Grew from developer to lead developer and mentor of a team of 5.',
+        'Fullstack developer with 2+ years of commercial experience building SaaS task-management products. Grew from developer to lead developer and mentor of a team of 5.',
         'I can drive a feature from idea to production on my own: design the architecture, build backend and frontend, cover it with tests, document and ship it.',
         'I suggest improvements not only in code but in team processes. Aiming to grow towards high-load system architecture and AI solutions.',
       ],
